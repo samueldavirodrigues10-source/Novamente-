@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nome neutro: visível no launcher e no seletor de apps do Android -->
+    <string name="app_name">System Utility</string>
+    <!-- Nome do serviço de acessibilidade: aparece em Config > Acessibilidade.
+         Genérico o bastante pra não se destacar entre os outros serviços listados. -->
+    <string name="a11y_service_label">Accessibility Helper</string>
+    <!-- Descrição mostrada na tela de detalhes do serviço em Config > Acessibilidade.
+         Texto genérico, no estilo do que qualquer app com a11y service legítimo usa. -->
+    <string name="accessibility_service_description">Auxilia na automação de toques e gestos para usuários com dificuldade de interação na tela.</string>
+</resources>
